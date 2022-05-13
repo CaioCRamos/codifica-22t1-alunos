@@ -1,0 +1,63 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#musk {
+    width: 91px;
+}
+
+#eu {
+    width: 119px;
+    margin-left: 100px;
+}
+
+#foto {
+    font-size: 15px;
+    width: 80px;
+    margin-top: -4px;
+}
+
+#foto2 {
+    margin-left: 200px;
+    margin-top: -32px;
+}
+
+#agua {
+    color: darkblue;
+}
+
+#anos {
+    color: rgb(231, 96, 47);
+}
+
+#guarana {
+    color: green;
+}
+
+#agua_po {
+    color : blue;
+}
+
+#gif {
+    width: 500px;
+    height: 100px;
+    border: 5px solid rgb(29, 129, 43);
+    border-radius: 30px;
+
+    margin-left: 30px;
+}
+
+h2, h3{
+    font-family: Verdana;
+}
+
+h3 {
+    font-size: 90%;
+}
