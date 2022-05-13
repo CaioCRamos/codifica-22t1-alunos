@@ -1,0 +1,18 @@
+h1 {
+  color: darkslategray;
+  text-decoration: underline;
+}
+
+h3 {
+  color: lightslategray;
+}
+
+#csharp {
+  font-size: larger;
+  font-weight: bold;
+  color: blue;
+}
+
+#java {
+  text-decoration: line-through;
+}
