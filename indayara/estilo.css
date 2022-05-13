@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.lista{
+    margin-left: 15%;
+}
+
+img {
+    margin-left: 31%;
+}
+
+body {
+    background-color: rgb(190, 180, 180);
+}
+
+.borda{
+    border: solid 1px rgb(175, 141, 141);
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(228, 181, 181);
+    padding: 1%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
