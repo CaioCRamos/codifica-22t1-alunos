@@ -14,11 +14,11 @@ p{
     margin-left: 15%;
 }
 
-img {
+img{
     margin-left: 31%;
 }
 
-body {
+body{
     background-color: rgb(190, 180, 180);
 }
 
@@ -31,14 +31,14 @@ body {
     padding: 1%;
 }
 
-a {
+a{
     text-decoration: none;
 }
 
-a:visited {
+a:visited{
     color: black;
 }
 
-a:hover {
+a:hover{
     color: gray;
 }
