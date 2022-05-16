@@ -1,0 +1,39 @@
+#Nome {
+    color: rgb(242, 47, 47);
+}
+
+#lol {
+    color: rgb(164, 73, 73);
+}
+
+.highlight {
+    color: rgb(9, 150, 21);
+}
+
+body {
+    background-image: url('../background2.gif');
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    word-break: normal;
+}
+
+#base {
+    height: 9mm;
+    width: 30mm;
+    text-align: left;
+}
+
+#o {
+    height: 10cm;
+    width: 10cm;
+    margin-left: 37%;
+}
+
