@@ -1,0 +1,28 @@
+body {
+  background-image: url(adam-gif.gif);
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+#lula {
+  width: 120px;
+  border-radius: 75px;
+  border-color: rgb(168, 77, 41);
+  border-style: outset;
+  border: size 300px;
+}
+h1 {
+  color: rgb(10, 58, 249);
+  text-align: center;
+}
+h3 {
+  lighting-color: brown;
+  text-align: center;
+}
+#um {
+  font-style: italic;
+  font-size: large;
+}
+#gif1 {
+  width: 55px;
+}
